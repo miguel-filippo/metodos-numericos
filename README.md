@@ -46,21 +46,6 @@ Este repositório reúne três projetos práticos desenvolvidos na disciplina de
 	3) Gerar predições do melhor modelo: `python "Projeto 2/best_previsions.py"`
 	4) Saídas: arquivos em `Projeto 2/previsoes/` e gráficos em `Projeto 2/graficos/`.
 
-—
-
-### Projeto 3 — Visualização interativa: GD vs SGD em regressão linear (Pygame)
-
-- Questão‑problema: Construir uma ferramenta didática para entender, de forma visual, como o Gradiente Descendente (GD) e o Gradiente Descendente Estocástico (SGD) ajustam uma reta de regressão a partir de pontos definidos pelo usuário.
-- Como foi resolvido: Desenvolveu‑se uma aplicação interativa em Pygame. O usuário clica para adicionar pontos; ao iniciar, a reta é ajustada em tempo real por GD ou SGD, com normalização interna dos dados para estabilidade numérica e cálculo do MSE a cada iteração. Botões permitem limpar pontos, alternar método e começar/parar o ajuste.
-- Pontos fortes da solução:
-	- Aprendizado por experimentação visual e imediata;
-	- Comparação lado a lado entre GD e SGD, evidenciando suas dinâmicas;
-	- Normalização automática e desenho robusto da reta no sistema cartesiano.
-- Como executar rapidamente:
-	1) Instalar dependências: `pip install -r "Projeto 3/requirements.txt"`
-	2) Rodar a aplicação: `python "Projeto 3/main.py"`
-	3) Uso: clique para adicionar pontos; “Começar” para ajustar; “GD/SGD” alterna método; “Limpar pontos” reinicia.
-
-—
+—--
 
 Desenvolvido por mim: Miguel Filippo Rocha Calhabeu — USP (ICMC) — para a matéria de Cálculo Numérico.
