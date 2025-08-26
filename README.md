@@ -1,8 +1,8 @@
-## Cálculo Numérico — Projetos 1, 2 e 3
+## Cálculo Numérico — Projetos 1 e 2
 
-Este repositório reúne três projetos práticos desenvolvidos na disciplina de Cálculo Numérico, cobrindo interpolação polinomial, regressão linear com seleção de variáveis e uma visualização interativa de Gradiente Descendente (GD) versus Gradiente Descendente Estocástico (SGD).
+Este repositório reúne três dois práticos desenvolvidos na disciplina de Cálculo Numérico, cobrindo interpolação polinomial eregressão linear com seleção de variáveis
 
-—
+---
 
 ### Projeto 1 — Interpolação e curvatura de uma viga (Lagrange/Hermite)
 
@@ -20,7 +20,7 @@ Este repositório reúne três projetos práticos desenvolvidos na disciplina de
 	2) Rodar: `python "Projeto 1/lagrange_interpolation.py"`
 	3) Saídas: `Projeto 1/lagrange_interpolation.png` (deflexão e curvatura).
 
-—
+---
 
 ### Projeto 2 — Regressão linear com engenharia de atributos e seleção de variáveis (Concreto)
 
@@ -46,6 +46,6 @@ Este repositório reúne três projetos práticos desenvolvidos na disciplina de
 	3) Gerar predições do melhor modelo: `python "Projeto 2/best_previsions.py"`
 	4) Saídas: arquivos em `Projeto 2/previsoes/` e gráficos em `Projeto 2/graficos/`.
 
-—--
+---
 
 Desenvolvido por mim: Miguel Filippo Rocha Calhabeu — USP (ICMC) — para a matéria de Cálculo Numérico.
